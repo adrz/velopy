@@ -1,3 +1,14 @@
+INSTALLATION
+As root:
+
+python setup.py install
+
+
+
+
+
+
+
 EXAMPLE CODE:
 
 import velopy
